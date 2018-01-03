@@ -43,7 +43,7 @@ Create a folder for your Phonegap project and build the phonegap project with
 
 ```sh
 $ cordova create my_app_name com.example.hello my_app_name
-$ cd hello
+$ cd my_app_name
 $ cordova platform add android
 $ cordova build
 ```
